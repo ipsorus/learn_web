@@ -1,7 +1,8 @@
 *.log
 *.pyc
 config.py
-__pycache__/
 .vscode/
 env/
 *.db
+**/.DS_Store
+__pycache__/
